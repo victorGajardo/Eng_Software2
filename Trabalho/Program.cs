@@ -4,5 +4,6 @@
     {
         Console.WriteLine("Primeiro commit");
         Console.WriteLine("Segundo commit");
+        Console.WriteLine("Terceiro commit");
     }
 }
